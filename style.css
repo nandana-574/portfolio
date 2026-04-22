@@ -62,6 +62,16 @@ h2 {
     max-width: 600px;
     margin: 0 auto;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+.edu-card {
+    color: #1e40af;
+    text-decoration: none;
+    font-weight: 600;
+}
+.edu-card a:hover {
+    color:lightblue;
+    text-decoration: underline;
 }
 
 .skills {
@@ -71,6 +81,7 @@ h2 {
     justify-content: center;
 }
 
+
 .skills span {
     background: #1e40af;
     color: white;
@@ -79,6 +90,7 @@ h2 {
 }
 
 #contact {
+    color: #1e40af;
     text-align: center;
     background: #dbeafe;
 }
